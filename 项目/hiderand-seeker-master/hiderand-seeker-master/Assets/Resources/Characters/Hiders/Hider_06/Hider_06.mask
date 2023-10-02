@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hider_06
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: PineApple_rig01:Group
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Hip_L
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Hip_L/PineApple_rig01:Knee_L
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Hip_L/PineApple_rig01:Knee_L/PineApple_rig01:Ankle_L
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Hip_R
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Hip_R/PineApple_rig01:Knee_R
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Hip_R/PineApple_rig01:Knee_R/PineApple_rig01:Ankle_R
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Neck_M
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Neck_M/PineApple_rig01:Face_M
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Neck_M/PineApple_rig01:Head_M
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Neck_M/PineApple_rig01:Head_M/PineApple_rig01:Head1_M
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Shoulder_L
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Shoulder_L/PineApple_rig01:Elbow_L
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Shoulder_L/PineApple_rig01:Elbow_L/PineApple_rig01:Wrist_L
+    m_Weight: 0
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Shoulder_R
+    m_Weight: 1
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Shoulder_R/PineApple_rig01:Elbow_R
+    m_Weight: 1
+  - m_Path: PineApple_rig01:Group/PineApple_rig01:DeformationSystem/PineApple_rig01:Root_M/PineApple_rig01:Spine_M/PineApple_rig01:Chest_M/PineApple_rig01:Shoulder_R/PineApple_rig01:Elbow_R/PineApple_rig01:Wrist_R
+    m_Weight: 1
+  - m_Path: PineApple_rig01:PineApple
+    m_Weight: 0
+  - m_Path: PineApple_rig01:PineApple/PineApple_rig01:Pineapple_cat
+    m_Weight: 0

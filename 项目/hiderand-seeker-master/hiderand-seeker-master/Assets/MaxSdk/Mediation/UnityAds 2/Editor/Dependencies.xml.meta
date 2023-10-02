@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f951fca5616f63b45b5c34087590121e
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Mediation/UnityAds 1/Editor/Dependencies.xml
+- al_max_export_path-MaxSdk/Mediation/UnityAds 2/Editor/Dependencies.xml
+- al_max_export_path-MaxSdk/Mediation/UnityAds/Editor/Dependencies.xml
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

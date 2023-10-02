@@ -1,0 +1,81 @@
+allprojects {
+
+
+    buildscript {
+        repositories {**ARTIFACTORYREPOSITORY**
+
+  maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+ jcenter { url 'http://maven.aliyun.com/nexus/content/repositories/jcenter' }
+    maven{ url 'http://maven.aliyun.com/nexus/content/repositories/central/'}
+      
+          google()
+jcenter()
+        maven { url'https://jitpack.io' } 
+        maven { url'https://clojars.org/repo/' } 
+        maven { url'https://dl.bintray.com/guardian/android' }
+        
+        maven { url'https://maven.aliyun.com/repository/public/' }
+        maven { url'https://maven.aliyun.com/repository/google/' }
+        maven { url'https://maven.aliyun.com/repository/jcenter/' }
+        maven { url'https://maven.aliyun.com/repository/central/' }
+        mavenLocal()
+        mavenCentral()
+        }
+
+configurations {
+    all*.exclude group: 'com.android.billingclient', module: 'billing'
+}
+configurations.all {
+        resolutionStrategy {
+            force 'androidx.core:core-ktx:1.6.0'
+            force 'androidx.core:core:1.6.0'
+        }
+    }
+        dependencies {
+            // If you are changing the Android Gradle Plugin version, make sure it is compatible with the Gradle version preinstalled with Unity
+            // See which Gradle version is preinstalled with Unity here https://docs.unity3d.com/Manual/android-gradle-overview.html
+            // See official Gradle and Android Gradle Plugin compatibility table here https://developer.android.com/studio/releases/gradle-plugin#updating-gradle
+            // To specify a custom Gradle version in Unity, go do "Preferences > External Tools", uncheck "Gradle Installed with Unity (recommended)" and specify a path to a custom Gradle version
+            //classpath 'com.android.tools.build:gradle:4.2.1'
+	classpath 'com.android.tools.build:gradle:4.0.1'
+classpath 'com.android.tools.lint:lint:26.3.2'
+//classpath 'com.android.tools.build:gradle:3.6.4'
+	//classpath 'com.android.tools.lint:lint:26.0.0'
+
+            **BUILD_SCRIPT_DEPS**
+        }
+configurations {
+    all*.exclude group: 'com.android.billingclient', module: 'billing'
+}
+
+    }
+
+    repositories {**ARTIFACTORYREPOSITORY**
+  maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+ jcenter { url 'http://maven.aliyun.com/nexus/content/repositories/jcenter' }
+    maven{ url 'http://maven.aliyun.com/nexus/content/repositories/central/'}
+        google()
+    jcenter()
+   maven { url'https://jitpack.io' } 
+        maven { url'https://clojars.org/repo/' } 
+        maven { url'https://dl.bintray.com/guardian/android' }
+      
+        maven { url'https://maven.aliyun.com/repository/public/' }
+        maven { url'https://maven.aliyun.com/repository/google/' }
+        maven { url'https://maven.aliyun.com/repository/jcenter/' }
+        maven { url'https://maven.aliyun.com/repository/central/' }
+        mavenLocal()
+        mavenCentral()
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+
+
+
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+

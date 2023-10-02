@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hider_10
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: LemonCat:DeformationSystem
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Hip_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Hip_L/LemonCat:Knee_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Hip_L/LemonCat:Knee_L/LemonCat:Ankle_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Hip_L/LemonCat:Knee_L/LemonCat:Ankle_L/LemonCat:Toes_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Hip_R
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Hip_R/LemonCat:Knee_R
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Hip_R/LemonCat:Knee_R/LemonCat:Ankle_R
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Hip_R/LemonCat:Knee_R/LemonCat:Ankle_R/LemonCat:Toes_R
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Neck_M
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Neck_M/LemonCat:Face_M
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Neck_M/LemonCat:Face_M/LemonCat:FaceEnd_M
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Neck_M/LemonCat:Head_M
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Neck_M/LemonCat:Head_M/LemonCat:Head1_M
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_L/LemonCat:Elbow_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_L/LemonCat:Elbow_L/LemonCat:Wrist_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_L/LemonCat:Elbow_L/LemonCat:Wrist_L/LemonCat:MiddleFinger0_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_L/LemonCat:Elbow_L/LemonCat:Wrist_L/LemonCat:MiddleFinger0_L/LemonCat:MiddleFinger1_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_L/LemonCat:Elbow_L/LemonCat:Wrist_L/LemonCat:ThumbFinger_L
+    m_Weight: 0
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_R
+    m_Weight: 1
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_R/LemonCat:Elbow_R
+    m_Weight: 1
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_R/LemonCat:Elbow_R/LemonCat:Wrist_R
+    m_Weight: 1
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_R/LemonCat:Elbow_R/LemonCat:Wrist_R/LemonCat:MiddleFinger0_R
+    m_Weight: 1
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_R/LemonCat:Elbow_R/LemonCat:Wrist_R/LemonCat:MiddleFinger0_R/LemonCat:MiddleFinger1_R
+    m_Weight: 1
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Spine_M/LemonCat:Chest_M/LemonCat:Shoulder_R/LemonCat:Elbow_R/LemonCat:Wrist_R/LemonCat:ThumbFinger_R
+    m_Weight: 1
+  - m_Path: LemonCat:DeformationSystem/LemonCat:Root_M/LemonCat:Tail_M
+    m_Weight: 0
+  - m_Path: LemonCat:Geometry
+    m_Weight: 0
+  - m_Path: LemonCat:Geometry/LemonCat:LemonCat
+    m_Weight: 0

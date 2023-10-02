@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac7a88f94cb4f9498c64eb3c209f4f0, type: 3}
+  m_Name: HiderSoData
+  m_EditorClassIdentifier: 
+  characterList:
+  - name: Hider_01
+    prefabs: {fileID: 2550888455089157525, guid: 01fe139ede42b7544a4b4d28c05c5ea6, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: f1d22d9c14797834780d4bac5845d7b9, type: 3}
+    price: 0
+  - name: Hider_02
+    prefabs: {fileID: 4092524941105418294, guid: 9ba8c3b2c5921154a88d0b8f0df70a13, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: 41ccc9c0303ab5c4e9079d709082a91c, type: 3}
+    price: 1000
+  - name: Hider_03
+    prefabs: {fileID: 3892560166216217110, guid: 5f5ad899f8cfdc64fa8b3efe26818bed, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: eb1f2349266fd1f4fa9333ae0a66d8ba, type: 3}
+    price: 1500
+  - name: Hider_04
+    prefabs: {fileID: 4445566720741787971, guid: 683a341ceb3919a48938e9c2dc230c2b, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: c1e2675bc1887f04db3d162221c0f2b9, type: 3}
+    price: 2000
+  - name: Hider_05
+    prefabs: {fileID: 8506332992965495315, guid: 55e645bda46e10a42baa6905bff63e01, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: a5f8aaffa7026c748b87ed9c92a96cee, type: 3}
+    price: 3000
+  - name: Hider_06
+    prefabs: {fileID: 8086010604704641457, guid: 9d5a59261b2c50f42b7b9f6d39e6b101, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: 46deb1a340fb54e4da27ab06d164d79d, type: 3}
+    price: 4000
+  - name: Hider_07
+    prefabs: {fileID: 2082610463321126474, guid: 6b07fda1d8b8fe64a8d9dcc59a582c21, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: 953fc9551f4d75548a3c709b2b89788d, type: 3}
+    price: 5000
+  - name: Hider_08
+    prefabs: {fileID: 532960388061779708, guid: d4fe98f342f23544bbfb70f423a965c6, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: 4aa91c39c72190b46b7aa7cdcd10c07b, type: 3}
+    price: 6000
+  - name: Hider_09
+    prefabs: {fileID: 5847832069144911896, guid: b2ceb5c0b33ab58499fb85694e45cbc1, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: 9bc8ae6fcbc20564c95dddc45206b51a, type: 3}
+    price: 7000
+  - name: Hider_10
+    prefabs: {fileID: 6202254410086610849, guid: b2f2b2d8d95a52749b4605f9f0bf97f2, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: 970ed68fe92da6e4bbef9a25d583b6cb, type: 3}
+    price: 8000

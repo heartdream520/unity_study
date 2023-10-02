@@ -1,0 +1,4937 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Take
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.43578333, y: -0.5568599, z: -0.43578324, w: 0.55685985}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99033356, y: 0.13846675, z: 0.006267927, w: -0.0051901233}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 6.5529433e-17, y: 9.4307073e-17, z: 0.42660633, w: 0.9044374}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.018898306, y: -0.00050000707, z: -0.1794785, w: 0.9835802}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.1384669, y: -0.99033356, z: 0.005190116, w: 0.006267927}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 6.5529433e-17, y: 9.4307073e-17, z: 0.42660633, w: 0.9044374}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.018898306, y: -0.00050000707, z: -0.1794785, w: 0.9835802}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: -0.062456768, w: 0.99804765}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: -0.055280212, w: 0.9984709}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.024721954, y: -0.005962221, z: -0.068218775, w: 0.9973463}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 5.652468e-17, y: -1.01232746e-16, z: -0.7131247, w: 0.70103717}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.048779275, y: -0.011790539, z: -0.05556938, w: 0.99719286}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0715178, y: -0.0075537553, z: -0.038203057, w: 0.9966788}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.023254676, y: -0.09217981, z: -0.47436547, w: 0.8751797}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.39323497, y: -0.32894662, z: -0.32660675, w: 0.794033}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.3862614, y: -0.34182575, z: -0.31377444, w: 0.79718435}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.11681265, y: -0.66889113, z: 0.41438794, w: 0.6059886}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.47937983, y: -0.14716399, z: -0.1202369, w: 0.8567852}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.77224004, y: -0.3963889, z: 0.4374448, w: 0.23486845}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -5.139575e-20, y: 0.0031958073, z: 0.00021863307}
+        inSlope: {x: 0.0035180666, y: 0, z: 0}
+        outSlope: {x: 0.0035180666, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0014853777, y: -0.00020092906, z: 0.000015729149}
+        inSlope: {x: -0.00006612112, y: 0, z: 0}
+        outSlope: {x: -0.00006612112, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0019019616, y: -0.0001642793, z: 0.00000919431}
+        inSlope: {x: -0.0002354283, y: 0, z: 0}
+        outSlope: {x: -0.0002354283, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.00454991, y: -0.00012504785, z: 0.0000018211288}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0020940457, y: 0.000019047933, z: -0.0000016024379}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0020058402, y: 0.00038634546, z: -0.00000590056}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0019418651, y: 0.0024425099, z: -0.00000590056}
+        inSlope: {x: -0.0009990098, y: 0, z: 0}
+        outSlope: {x: -0.0009990098, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000980059, y: 0.00007018871, z: -0.0053793234}
+        inSlope: {x: -1.7347233e-17, y: 0, z: 0}
+        outSlope: {x: -1.7347233e-17, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0017591707, y: 0.0003280525, z: -0.000030619143}
+        inSlope: {x: -0.0018721, y: 0, z: 0}
+        outSlope: {x: -0.0018721, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0016654995, y: 0.0003031632, z: -0.00004088258}
+        inSlope: {x: -0.0030810796, y: 0, z: 0}
+        outSlope: {x: -0.0030810796, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000980059, y: 0.00007018871, z: 0.0053793234}
+        inSlope: {x: -1.7347233e-17, y: 0, z: 0}
+        outSlope: {x: -1.7347233e-17, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0020743096, y: -0.0006180499, z: 0.000057686364}
+        inSlope: {x: -0.00052252185, y: 0, z: 0}
+        outSlope: {x: -0.00052252185, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0019986902, y: -0.0005711585, z: 0.000077022654}
+        inSlope: {x: -0.0010476849, y: 0, z: 0}
+        outSlope: {x: -0.0010476849, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000049269576, y: 0.000017446826, z: -0.002982521}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0015073605, y: 3.5527136e-19, z: 2.4868995e-18}
+        inSlope: {x: -1.4869058e-17, y: 0, z: 0}
+        outSlope: {x: -1.4869058e-17, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.002010543, y: 2.4202861e-17, z: 0}
+        inSlope: {x: -3.4694466e-17, y: 0, z: 0}
+        outSlope: {x: -3.4694466e-17, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000049269576, y: 0.000017446826, z: 0.002982521}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0015073605, y: -7.105427e-19, z: -3.5527134e-18}
+        inSlope: {x: 0.0010598487, y: 0, z: 0}
+        outSlope: {x: 0.0010598487, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.002010543, y: -1.0347278e-17, z: -1.065814e-18}
+        inSlope: {x: 0.0014136494, y: 0, z: 0}
+        outSlope: {x: 0.0014136494, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -0.38695154, y: 0, z: 0}
+        outSlope: {x: -0.38695154, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -0.38695154, y: 0, z: 0}
+        outSlope: {x: -0.38695154, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 2566182344
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3761040518
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 663984191
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3425290212
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4008388304
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1672174219
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4175801507
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 790224699
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3802874335
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2240124754
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1956508427
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3802874335
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2754747483
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2825429736
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1189375985
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4196062146
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1437345
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2391985768
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2061585021
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 710657503
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1956508427
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2566182344
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1956508427
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3802874335
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2240124754
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2391985768
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2061585021
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 710657503
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3761040518
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 663984191
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2754747483
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3425290212
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2825429736
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1189375985
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4175801507
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 790224699
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1672174219
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4196062146
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4008388304
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1437345
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1672174219
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2391985768
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2061585021
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -5.139575e-20
+        inSlope: 0.0035180666
+        outSlope: 0.0035180666
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0031958073
+        inSlope: -0.0017903724
+        outSlope: -0.0017903724
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.00021863307
+        inSlope: -0.004318405
+        outSlope: -0.004318405
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0014853777
+        inSlope: -0.00006612112
+        outSlope: -0.00006612112
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00020092906
+        inSlope: 0.00062689726
+        outSlope: 0.00062689726
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.000015729149
+        inSlope: -0.00004907495
+        outSlope: -0.00004907495
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0019019616
+        inSlope: -0.0002354283
+        outSlope: -0.0002354283
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0001642793
+        inSlope: 0.0005125513
+        outSlope: 0.0005125513
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.00000919431
+        inSlope: -0.000028686176
+        outSlope: -0.000028686176
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00454991
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00012504785
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0000018211288
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0020940457
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.000019047933
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0000016024379
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0020058402
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.00038634546
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00000590056
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0019418651
+        inSlope: -0.0009990098
+        outSlope: -0.0009990098
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0024425099
+        inSlope: 0.0024702116
+        outSlope: 0.0024702116
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00000590056
+        inSlope: 0.0015413378
+        outSlope: 0.0015413378
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.000980059
+        inSlope: -1.7347233e-17
+        outSlope: -1.7347233e-17
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.00007018871
+        inSlope: 1.6263033e-18
+        outSlope: 1.6263033e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0053793234
+        inSlope: -1.0408341e-16
+        outSlope: -1.0408341e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0017591707
+        inSlope: -0.0018721
+        outSlope: -0.0018721
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0003280525
+        inSlope: -0.00090635
+        outSlope: -0.00090635
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.000030619143
+        inSlope: 0.0005657573
+        outSlope: 0.0005657573
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0016654995
+        inSlope: -0.0030810796
+        outSlope: -0.0030810796
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0003031632
+        inSlope: -0.001755997
+        outSlope: -0.001755997
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00004088258
+        inSlope: 0.00006662615
+        outSlope: 0.00006662615
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.000980059
+        inSlope: -1.7347233e-17
+        outSlope: -1.7347233e-17
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.00007018871
+        inSlope: 1.6263033e-18
+        outSlope: 1.6263033e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0053793234
+        inSlope: 1.0408341e-16
+        outSlope: 1.0408341e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0020743096
+        inSlope: -0.00052252185
+        outSlope: -0.00052252185
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0006180499
+        inSlope: 0.0018580353
+        outSlope: 0.0018580353
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.000057686364
+        inSlope: -0.00059403025
+        outSlope: -0.00059403025
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0019986902
+        inSlope: -0.0010476849
+        outSlope: -0.0010476849
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0005711585
+        inSlope: 0.0030384236
+        outSlope: 0.0030384236
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.000077022654
+        inSlope: -0.0009952083
+        outSlope: -0.0009952083
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.000049269576
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.000017446826
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.002982521
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0015073605
+        inSlope: -1.4869058e-17
+        outSlope: -1.4869058e-17
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 3.5527136e-19
+        inSlope: 1.155558e-32
+        outSlope: 1.155558e-32
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.4868995e-18
+        inSlope: 5.3290842e-18
+        outSlope: 5.3290842e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.002010543
+        inSlope: -3.4694466e-17
+        outSlope: -3.4694466e-17
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.4202861e-17
+        inSlope: -3.3308262e-18
+        outSlope: -3.3308262e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1.0658137e-17
+        outSlope: 1.0658137e-17
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.000049269576
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.000017446826
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.002982521
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0015073605
+        inSlope: 0.0010598487
+        outSlope: 0.0010598487
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -7.105427e-19
+        inSlope: 5.329055e-18
+        outSlope: 5.329055e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.5527134e-18
+        inSlope: 5.3291065e-18
+        outSlope: 5.3291065e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.002010543
+        inSlope: 0.0014136494
+        outSlope: 0.0014136494
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.0347278e-17
+        inSlope: -1.7985583e-17
+        outSlope: -1.7985583e-17
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.065814e-18
+        inSlope: -1.5987213e-17
+        outSlope: -1.5987213e-17
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: -0.38695154
+        outSlope: -0.38695154
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: -0.38695154
+        outSlope: -0.38695154
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: -0.38695154
+        outSlope: -0.38695154
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: -0.38695154
+        outSlope: -0.38695154
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: -0.38695154
+        outSlope: -0.38695154
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: -0.38695154
+        outSlope: -0.38695154
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.43578333
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.5568599
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.43578324
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.55685985
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99033356
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.13846675
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.006267927
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0051901233
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 6.5529433e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 9.4307073e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.42660633
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9044374
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.018898306
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00050000707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.1794785
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9835802
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.1384669
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.99033356
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.005190116
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.006267927
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 6.5529433e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 9.4307073e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.42660633
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9044374
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.018898306
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.00050000707
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.1794785
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9835802
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.062456768
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99804765
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.055280212
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9984709
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.024721954
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.005962221
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.068218775
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9973463
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 5.652468e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.01232746e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.7131247
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.70103717
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.048779275
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.011790539
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.05556938
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99719286
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0715178
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0075537553
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.038203057
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9966788
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.023254676
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.09217981
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.47436547
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.8751797
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.39323497
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.32894662
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.32660675
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.794033
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.3862614
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.34182575
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.31377444
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.79718435
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.11681265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.66889113
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.41438794
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.6059886
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.47937983
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.14716399
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.1202369
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.8567852
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.77224004
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.3963889
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.4374448
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.23486845
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: -47.804256
+        outSlope: -47.804256
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -90
+        inSlope: 111.903984
+        outSlope: 111.903984
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -76.09151
+        inSlope: -85.876
+        outSlope: -85.876
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: -62.791897
+        outSlope: -62.791897
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 9.713286
+        outSlope: 9.713286
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -7.161679
+        inSlope: 32.184803
+        outSlope: 32.184803
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: -60.116497
+        outSlope: -60.116497
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 14.828109
+        outSlope: 14.828109
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -6.337876
+        inSlope: 30.997257
+        outSlope: 30.997257
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.7798908
+        inSlope: 52.315624
+        outSlope: 52.315624
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.87573034
+        inSlope: 117.50545
+        outSlope: 117.50545
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -7.8471546
+        inSlope: 66.54573
+        outSlope: 66.54573
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 5.507399
+        inSlope: -70.999016
+        outSlope: -70.999016
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.6658427
+        inSlope: 57.735435
+        outSlope: 57.735435
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -6.459239
+        inSlope: 11.80026
+        outSlope: 11.80026
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 8.162633
+        inSlope: -121.106834
+        outSlope: -121.106834
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.1879276
+        inSlope: 5.673097
+        outSlope: 5.673097
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.474951
+        inSlope: -20.446413
+        outSlope: -20.446413
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Head_M/KiwiCat_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.7317506e-15
+        inSlope: 125.366356
+        outSlope: 125.366356
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.2751411e-14
+        inSlope: 3.332977
+        outSlope: 3.332977
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -90.97944
+        inSlope: 52.377316
+        outSlope: 52.377316
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Neck_M/KiwiCat_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 24.38
+        inSlope: 7.8895245
+        outSlope: 7.8895245
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -85.095
+        inSlope: 126.75475
+        outSlope: 126.75475
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 46.3
+        inSlope: 161.56018
+        outSlope: 161.56018
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 51.819
+        inSlope: 42.907585
+        outSlope: 42.907585
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -36.473
+        inSlope: -55.42379
+        outSlope: -55.42379
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -34.164
+        inSlope: 3.983917
+        outSlope: 3.983917
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 23.661392
+        inSlope: -39.78744
+        outSlope: -39.78744
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -59.278797
+        inSlope: 142.82924
+        outSlope: 142.82924
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -56.563133
+        inSlope: 23.114317
+        outSlope: 23.114317
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_R/KiwiCat_rig01:Elbow_R/KiwiCat_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 45.198
+        inSlope: -3.8707922
+        outSlope: -3.8707922
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 136.008
+        inSlope: -59.772488
+        outSlope: -59.772488
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 215.254
+        inSlope: 56.903683
+        outSlope: 56.903683
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.6795428
+        inSlope: 10.952703
+        outSlope: 10.952703
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -10.580159
+        inSlope: 78.78339
+        outSlope: 78.78339
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -56.66906
+        inSlope: 206.77916
+        outSlope: 206.77916
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 24.18038
+        inSlope: 43.25815
+        outSlope: 43.25815
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -58.67176
+        inSlope: 232.30864
+        outSlope: 232.30864
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -58.44593
+        inSlope: 259.06723
+        outSlope: 259.06723
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Spine_M/KiwiCat_rig01:Chest_M/KiwiCat_rig01:Shoulder_L/KiwiCat_rig01:Elbow_L/KiwiCat_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.68846506
+        inSlope: -111.861755
+        outSlope: -111.861755
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -179.37097
+        inSlope: 11.55075
+        outSlope: 11.55075
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -15.915033
+        inSlope: -426.30435
+        outSlope: -426.30435
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.1812822e-15
+        inSlope: -1.9631539e-13
+        outSlope: -1.9631539e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.2977507e-14
+        inSlope: -1.1679755e-12
+        outSlope: -1.1679755e-12
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 50.504757
+        inSlope: 254.11548
+        outSlope: 254.11548
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.1408093
+        inSlope: -6.6631002
+        outSlope: -6.6631002
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.33255434
+        inSlope: 2.342448
+        outSlope: 2.342448
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -20.688719
+        inSlope: 85.62589
+        outSlope: 85.62589
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_R/KiwiCat_rig01:Knee_R/KiwiCat_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.6884659
+        inSlope: -106.91304
+        outSlope: -106.91304
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 179.37097
+        inSlope: -43.3081
+        outSlope: -43.3081
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 164.08496
+        inSlope: -39.907833
+        outSlope: -39.907833
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.1812822e-15
+        inSlope: -3.271923e-14
+        outSlope: -3.271923e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.2977507e-14
+        inSlope: -1.9466259e-13
+        outSlope: -1.9466259e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 50.504757
+        inSlope: -3.6643407
+        outSlope: -3.6643407
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.1408093
+        inSlope: -24.529615
+        outSlope: -24.529615
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.33255434
+        inSlope: -62.774887
+        outSlope: -62.774887
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -20.688719
+        inSlope: -19.127367
+        outSlope: -19.127367
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: KiwiCat_rig01:Group/KiwiCat_rig01:DeformationSystem/KiwiCat_rig01:Root_M/KiwiCat_rig01:Hip_L/KiwiCat_rig01:Knee_L/KiwiCat_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

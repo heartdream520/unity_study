@@ -1,0 +1,4857 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Take
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.3819954, y: -0.6003439, z: -0.45218995, w: 0.5377647}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.92145085, y: -0.3631179, z: 0.124650724, w: 0.05946201}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.2157682e-16, y: -3.7708292e-17, z: 0.31215763, w: 0.9500303}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.018736633, y: 0.073287316, z: -0.042788386, w: 0.9962164}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.3612077, y: -0.9208784, z: -0.020360533, w: 0.14525013}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.2157684e-16, y: -3.770831e-17, z: 0.31215784, w: 0.95003027}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.018336205, y: -0.0796263, z: -0.5092825, w: 0.85671157}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: -0.011891545, w: 0.9999293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.005051476, y: 0.006536861, z: 0.03853808, w: 0.99922293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0015039457, y: 0.02343435, z: 0.041555494, w: 0.99886024}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.207056e-17, y: 1.8569108e-17, z: -0.8890488, w: 0.45781246}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.003026998, y: 0.009230672, z: 0.030452047, w: 0.999489}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 2.2357997e-17, y: -2.0411186e-18, z: 0.002717778, w: 0.9999963}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.97054017, y: 0.15415087, z: -0.18202315, w: 0.03401465}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.22973749, y: -0.13990001, z: -0.26407805, w: 0.92623514}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.042369828, y: 0.0024980998, z: 0.013959784, w: 0.99900126}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.11001304, y: -0.69177985, z: 0.67185414, w: 0.24072742}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: -0.7387889, w: 0.6739369}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.042369828, y: 0.0024980998, z: 0.013959784, w: 0.99900126}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0005058987, y: 0.004279946, z: 0.0010148357}
+        inSlope: {x: 0.0022268528, y: 0, z: 0}
+        outSlope: {x: 0.0022268528, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0019830486, y: 0, z: 2.3092637e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0024583547, y: 1.3145041e-17, z: -2.8421709e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0038774204, y: 1.1617373e-16, z: -2.4868995e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0024287202, y: -7.531752e-17, z: -3.952394e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0024122123, y: 1.9895196e-17, z: -6.2172487e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0010303286, y: 0.008174694, z: 1.27009505e-17}
+        inSlope: {x: -0.00016775948, y: 0, z: 0}
+        outSlope: {x: -0.00016775948, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0026870933, y: 0.0018374505, z: -0.010197071}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0015338842, y: 6.785683e-17, z: -1.4210854e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0015507521, y: -2.8421709e-18, z: -1.7053025e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0026870933, y: 0.0018374505, z: 0.010197071}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0015338842, y: -3.5527136e-19, z: -2.8421709e-18}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0015507521, y: -8.526512e-18, z: 2.2737367e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00054249086, y: 0.000019235533, z: -0.0028037776}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0022117463, y: 2.176037e-18, z: -1.4210854e-18}
+        inSlope: {x: 0.00014360374, y: 0, z: 0}
+        outSlope: {x: 0.00014360374, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0018459278, y: -4.796163e-18, z: -2.131628e-18}
+        inSlope: {x: 0.00011984193, y: 0, z: 0}
+        outSlope: {x: 0.00011984193, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00054249086, y: 0.000019235533, z: 0.0028037776}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.002248294, y: -2.131628e-18, z: -3.5527134e-18}
+        inSlope: {x: 0.0066913306, y: 0, z: 0}
+        outSlope: {x: 0.0066913306, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0018764306, y: -1.3500311e-17, z: 1.4210854e-18}
+        inSlope: {x: 0.0055845706, y: 0, z: 0}
+        outSlope: {x: 0.0055845706, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99670964, y: 0.99670964, z: 0.99670964}
+        inSlope: {x: 0.031630397, y: 0, z: 0}
+        outSlope: {x: 0.031630397, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99670964, y: 0.99670964, z: 0.99670964}
+        inSlope: {x: 0.031630397, y: 0, z: 0}
+        outSlope: {x: 0.031630397, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99127936, y: 0.99127936, z: 0.99127936}
+        inSlope: {x: -1.1360514, y: 0, z: 0}
+        outSlope: {x: -1.1360514, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99127936, y: 0.99127936, z: 0.99127936}
+        inSlope: {x: -1.1360514, y: 0, z: 0}
+        outSlope: {x: -1.1360514, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 30
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 516063734
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 131473454
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 757904657
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 569210915
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3043409587
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2385717934
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3587202863
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 757904657
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 803168844
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3043409587
+      attribute: 3
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3625766356
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2734120580
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1925185867
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1670858018
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3483975300
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4157030560
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3109348667
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2885849013
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 231243203
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2941939528
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3769633285
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3587202863
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 803168844
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 516063734
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 803168844
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3043409587
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2385717934
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3587202863
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 757904657
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 569210915
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3625766356
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2734120580
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1925185867
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 131473454
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1670858018
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3483975300
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 231243203
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2941939528
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3769633285
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4157030560
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3109348667
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2885849013
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 1
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0005058987
+        inSlope: 0.0022268528
+        outSlope: 0.0022268528
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.004279946
+        inSlope: 0.006400222
+        outSlope: 0.006400222
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0010148357
+        inSlope: -0.002639777
+        outSlope: -0.002639777
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0019830486
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.3092637e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0024583547
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.3145041e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.8421709e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0038774204
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.1617373e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.4868995e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0024287202
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -7.531752e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.952394e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0024122123
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.9895196e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -6.2172487e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0010303286
+        inSlope: -0.00016775948
+        outSlope: -0.00016775948
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.008174694
+        inSlope: 0.00017526317
+        outSlope: 0.00017526317
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.27009505e-17
+        inSlope: -0.0011987527
+        outSlope: -0.0011987527
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0026870933
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0018374505
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.010197071
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0015338842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 6.785683e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.4210854e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0015507521
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.8421709e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.7053025e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0026870933
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0018374505
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.010197071
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0015338842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.5527136e-19
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.8421709e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0015507521
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -8.526512e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.2737367e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.00054249086
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.000019235533
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0028037776
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0022117463
+        inSlope: 0.00014360374
+        outSlope: 0.00014360374
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.176037e-18
+        inSlope: -6.285458e-18
+        outSlope: -6.285458e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.4210854e-18
+        inSlope: 3.0027746e-18
+        outSlope: 3.0027746e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0018459278
+        inSlope: 0.00011984193
+        outSlope: 0.00011984193
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.796163e-18
+        inSlope: 2.797185e-18
+        outSlope: 2.797185e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.131628e-18
+        inSlope: -8.051614e-19
+        outSlope: -8.051614e-19
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.00054249086
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.000019235533
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0028037776
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.002248294
+        inSlope: 0.0066913306
+        outSlope: 0.0066913306
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.131628e-18
+        inSlope: 3.064242e-18
+        outSlope: 3.064242e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.5527134e-18
+        inSlope: 1.5920563e-17
+        outSlope: 1.5920563e-17
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0018764306
+        inSlope: 0.0055845706
+        outSlope: 0.0055845706
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.3500311e-17
+        inSlope: -1.5254378e-17
+        outSlope: -1.5254378e-17
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.4210854e-18
+        inSlope: -8.726366e-18
+        outSlope: -8.726366e-18
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99670964
+        inSlope: 0.031630397
+        outSlope: 0.031630397
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99670964
+        inSlope: 0.031630397
+        outSlope: 0.031630397
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99670964
+        inSlope: 0.031630397
+        outSlope: 0.031630397
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99670964
+        inSlope: 0.031630397
+        outSlope: 0.031630397
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99670964
+        inSlope: 0.031630397
+        outSlope: 0.031630397
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99670964
+        inSlope: 0.031630397
+        outSlope: 0.031630397
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99127936
+        inSlope: -1.1360514
+        outSlope: -1.1360514
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99127936
+        inSlope: -1.1360514
+        outSlope: -1.1360514
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99127936
+        inSlope: -1.1360514
+        outSlope: -1.1360514
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99127936
+        inSlope: -1.1360514
+        outSlope: -1.1360514
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99127936
+        inSlope: -1.1360514
+        outSlope: -1.1360514
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99127936
+        inSlope: -1.1360514
+        outSlope: -1.1360514
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.3819954
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.6003439
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.45218995
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.5377647
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.92145085
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.3631179
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.124650724
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.05946201
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.2157682e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.7708292e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.31215763
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9500303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.018736633
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.073287316
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.042788386
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9962164
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.3612077
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.9208784
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.020360533
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.14525013
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.2157684e-16
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -3.770831e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.31215784
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.95003027
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.018336205
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0796263
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.5092825
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.85671157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.011891545
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9999293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.005051476
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.006536861
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.03853808
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99922293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0015039457
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.02343435
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.041555494
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99886024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.207056e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.8569108e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.8890488
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.45781246
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.003026998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.009230672
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.030452047
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.999489
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.2357997e-17
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.0411186e-18
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.002717778
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9999963
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.97054017
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.15415087
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.18202315
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.03401465
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.22973749
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.13990001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.26407805
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.92623514
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.042369828
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0024980998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.013959784
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99900126
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.11001304
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.69177985
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.67185414
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.24072742
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.7387889
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.6739369
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.042369828
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0024980998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.013959784
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.99900126
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -7.590473
+        inSlope: 69.29676
+        outSlope: 69.29676
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -90.73216
+        inSlope: 6.7008967
+        outSlope: 6.7008967
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -72.4311
+        inSlope: -1.0205078
+        outSlope: -1.0205078
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.3627026
+        inSlope: 0.0000071525574
+        outSlope: 0.0000071525574
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.54954743
+        inSlope: -0.000012874603
+        outSlope: -0.000012874603
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.7708537
+        inSlope: 0.000030398369
+        outSlope: 0.000030398369
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.4210796
+        inSlope: 0.000011444092
+        outSlope: 0.000011444092
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.2837364
+        inSlope: 1.8146837
+        outSlope: 1.8146837
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.6761618
+        inSlope: -15.230819
+        outSlope: -15.230819
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.7579665
+        inSlope: 1.2191283
+        outSlope: 1.2191283
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.31448182
+        inSlope: -0.042031243
+        outSlope: -0.042031243
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.0678574
+        inSlope: -1.5428503
+        outSlope: -1.5428503
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 3.493182
+        inSlope: 0.1142819
+        outSlope: 0.1142819
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.5626637e-15
+        inSlope: -20.849646
+        outSlope: -20.849646
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.26931e-16
+        inSlope: -26.305044
+        outSlope: -26.305044
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.31143478
+        inSlope: -1.8053951
+        outSlope: -1.8053951
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Head_M/Pumpkin_rig01:Head1_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.5250128e-15
+        inSlope: -4.4450684
+        outSlope: -4.4450684
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.5555617e-16
+        inSlope: -15.938553
+        outSlope: -15.938553
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -125.507904
+        inSlope: -0.05795288
+        outSlope: -0.05795288
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Neck_M/Pumpkin_rig01:Face_M
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 61.233
+        inSlope: -0.29108727
+        outSlope: -0.29108727
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -87.776
+        inSlope: 23.589844
+        outSlope: 23.589844
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 81.273
+        inSlope: 9.279774
+        outSlope: 9.279774
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -95.25669
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.860198
+        inSlope: -0.000005722046
+        outSlope: -0.000005722046
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.2189853
+        inSlope: -0.000038534403
+        outSlope: -0.000038534403
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.5918748
+        inSlope: -0.00001001358
+        outSlope: -0.00001001358
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_R/Pumpkin_rig01:Elbow_R/Pumpkin_rig01:Wrist_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.56764495
+        inSlope: -2.2642574
+        outSlope: -2.2642574
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 158.66463
+        inSlope: 24.058273
+        outSlope: 24.058273
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -161.84326
+        inSlope: -2.951889
+        outSlope: -2.951889
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -29.965
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -9.154
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -29.372
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.860198
+        inSlope: -0.000005722046
+        outSlope: -0.000005722046
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.2189853
+        inSlope: -0.000038534403
+        outSlope: -0.000038534403
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.5918748
+        inSlope: -0.00001001358
+        outSlope: -0.00001001358
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Spine_M/Pumpkin_rig01:Chest_M/Pumpkin_rig01:Shoulder_L/Pumpkin_rig01:Elbow_L/Pumpkin_rig01:Wrist_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -8.188488
+        inSlope: 32.638664
+        outSlope: 32.638664
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -165.20207
+        inSlope: -33.8118
+        outSlope: -33.8118
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 41.769318
+        inSlope: -148.77272
+        outSlope: -148.77272
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.4584366e-14
+        inSlope: -1.3125928e-12
+        outSlope: -1.3125928e-12
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.437509e-16
+        inSlope: -2.193758e-14
+        outSlope: -2.193758e-14
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 36.378635
+        inSlope: 359.49564
+        outSlope: 359.49564
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -6.460732
+        inSlope: -26.244234
+        outSlope: -26.244234
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -6.806092
+        inSlope: 48.55824
+        outSlope: 48.55824
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -61.075157
+        inSlope: 193.84001
+        outSlope: 193.84001
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_R/Pumpkin_rig01:Knee_R/Pumpkin_rig01:Ankle_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.0919417
+        inSlope: 6.7806134
+        outSlope: 6.7806134
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -164.15997
+        inSlope: -85.86364
+        outSlope: -85.86364
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 136.83206
+        inSlope: 173.00719
+        outSlope: 173.00719
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.4584364e-14
+        inSlope: -3.2814818e-13
+        outSlope: -3.2814818e-13
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 2.437494e-16
+        inSlope: -5.4843613e-15
+        outSlope: -5.4843613e-15
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 36.378613
+        inSlope: -2.866659
+        outSlope: -2.866659
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.7798809
+        inSlope: 26.915504
+        outSlope: 26.915504
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 8.493356
+        inSlope: -61.8126
+        outSlope: -61.8126
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -5.050961
+        inSlope: 169.65607
+        outSlope: 169.65607
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: Pumpkin_rig01:Group/Pumpkin_rig01:DeformationSystem/Pumpkin_rig01:Root_M/Pumpkin_rig01:Hip_L/Pumpkin_rig01:Knee_L/Pumpkin_rig01:Ankle_L
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

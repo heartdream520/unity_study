@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ac7a88f94cb4f9498c64eb3c209f4f0, type: 3}
+  m_Name: seekerSoData
+  m_EditorClassIdentifier: 
+  characterList:
+  - name: Seeker_01
+    prefabs: {fileID: 5878902121784829839, guid: 0305463b9fefa9f40871e6bbcd31ffe6, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: d4ce1de2e4546c146bda9177e2160c0b, type: 3}
+    price: 0
+  - name: Seeker_02
+    prefabs: {fileID: 8524483384495517696, guid: 466165155c6c4ab49815dcdb24777a5c, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: fbdc6621647376b4fa877f5cb2ef43dc, type: 3}
+    price: 1000
+  - name: Seeker_03
+    prefabs: {fileID: 6592604054460463464, guid: 95b85d7c3c247e646b20fb953089c2f4, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: 916e44643bda20b47ab3c8a1903cc5e2, type: 3}
+    price: 1500
+  - name: Seeker_04
+    prefabs: {fileID: 5111065551444070026, guid: 13ad8a8adc618d243809e4cd641585ad, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: 4124fd1be2bc1a14e80eb88f2a0d242a, type: 3}
+    price: 2000
+  - name: Seeker_05
+    prefabs: {fileID: 2241417870593285469, guid: 62222566289b4f0429167848173f93f8, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: d674bf8b30bbc7a499ae92789c3ce945, type: 3}
+    price: 3000
+  - name: Seeker_06
+    prefabs: {fileID: 3834409008032730257, guid: 0019abb412d84f64eacbc1d35f563ce2, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: d875e99c63e228946ac5156707b02ef2, type: 3}
+    price: 4000
+  - name: Seeker_07
+    prefabs: {fileID: 1732106726682825256, guid: 272151473db35a44f85b3cb6ef2196a5, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: c6e7b8ea4078cfd46af0eb83ce07d43d, type: 3}
+    price: 5000
+  - name: Seeker_08
+    prefabs: {fileID: 6019977899571312607, guid: 795a3723304d9084ebc455c9c4c0e264, type: 3}
+    shopImageSprite: {fileID: 21300000, guid: e17c80cb787c71b419fcb75256844729, type: 3}
+    price: 6000

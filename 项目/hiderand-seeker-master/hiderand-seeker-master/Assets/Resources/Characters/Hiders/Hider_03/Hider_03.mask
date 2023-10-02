@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hider_03
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: GrapeCat_rig01:grape
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:grape/GrapeCat_rig01:grapes_cat
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Hip_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Hip_L/GrapeCat_rig01:Knee_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Hip_L/GrapeCat_rig01:Knee_L/GrapeCat_rig01:Ankle_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Hip_R
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Hip_R/GrapeCat_rig01:Knee_R
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Hip_R/GrapeCat_rig01:Knee_R/GrapeCat_rig01:Ankle_R
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Neck_M
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Neck_M/GrapeCat_rig01:Head_M
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Neck_M/GrapeCat_rig01:Head_M/GrapeCat_rig01:Face_M
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Neck_M/GrapeCat_rig01:Head_M/GrapeCat_rig01:Head1_M
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Neck_M/GrapeCat_rig01:Head_M/GrapeCat_rig01:Head1_M/GrapeCat_rig01:Branch_01_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Neck_M/GrapeCat_rig01:Head_M/GrapeCat_rig01:Head1_M/GrapeCat_rig01:Branch_01_L/GrapeCat_rig01:Branch_02_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Neck_M/GrapeCat_rig01:Head_M/GrapeCat_rig01:Head1_M/GrapeCat_rig01:Branch_04_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Neck_M/GrapeCat_rig01:Head_M/GrapeCat_rig01:Head1_M/GrapeCat_rig01:Branch_04_L/GrapeCat_rig01:Branch_05_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Shoulder_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Shoulder_L/GrapeCat_rig01:Elbow_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Shoulder_L/GrapeCat_rig01:Elbow_L/GrapeCat_rig01:Wrist_L
+    m_Weight: 0
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Shoulder_R
+    m_Weight: 1
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Shoulder_R/GrapeCat_rig01:Elbow_R
+    m_Weight: 1
+  - m_Path: GrapeCat_rig01:Group/GrapeCat_rig01:DeformationSystem/GrapeCat_rig01:Root_M/GrapeCat_rig01:Spine_M/GrapeCat_rig01:Chest_M/GrapeCat_rig01:Shoulder_R/GrapeCat_rig01:Elbow_R/GrapeCat_rig01:Wrist_R
+    m_Weight: 1
